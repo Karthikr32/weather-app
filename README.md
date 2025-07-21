@@ -43,6 +43,8 @@ The temperature is displayed in Celsius, and the city name is shown dynamically 
 - CSS was used to create a responsive layout that adjusts for various screen sizes.
 - A clean, card-based layout is used for presenting weather data, making the application visually appealing and accessible.
 
+[Repo link](https://github.com/Karthikr32/weather-app) 
+
 ## Screenshots
 ![Image 1](./screenshots/image1.JPG)
 ![Image 2](./screenshots/image2.JPG)
