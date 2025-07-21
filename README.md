@@ -44,7 +44,7 @@ The temperature is displayed in Celsius, and the city name is shown dynamically 
 - A clean, card-based layout is used for presenting weather data, making the application visually appealing and accessible.
 
 ## Screenshots
-![Image 1](./screenshotsimage1.jpg)
-![Image 2](./screenshotsimage2.jpg)
-![Image 3](./screenshotsimage3.jpg)
-![Error_handling](./screenshotsimage4.jpg)
+![Image 1](./screenshots/image1.jpg)
+![Image 2](./screenshots/image2.jpg)
+![Image 3](./screenshots/image3.jpg)
+![Error_handling](./screenshots/image4.jpg)
